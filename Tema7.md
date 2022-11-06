@@ -2,7 +2,7 @@
 # Metodologías de desarrollo
 ## Tradicionales
 ### Evolutivos
-#### Waterfall
+#### Waterfall (cascada)
 ##### Análisis
 ##### Diseño
 ##### Implementación
